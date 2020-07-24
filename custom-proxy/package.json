@@ -1,0 +1,15 @@
+{
+  "name": "custom-proxy",
+  "version": "1.0.0",
+  "description": "Cutom-proxy-nodejs to Fix the CORS Error — and How the Access-Control-Allow-Origin Header Works",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mohammed Aoulad Bouchta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
